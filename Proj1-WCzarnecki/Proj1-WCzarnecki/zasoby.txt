@@ -1,0 +1,8 @@
+2)ggg|fjjjfhf|dhdhfh|gra|1234|hdhdhdh|djdhdhhd
+4)ab|ab|ab|gra|123456|ab|fhd
+6)Quentin Tarantino|Pulp Fiction|komedia|film|1994|Quentin Tarantino|Rolf Johnson|Miramax Films|Samuel L. Jackson|Roger Avary
+7)Quentin Tarantino|Pulp Fiction|komedia|film|1234|ddd|ddd
+9)abba|anana|rock|muzyka|987|9
+8)aa|bb|cc|film|1234|dd|gg|ee|ff|hh
+10)aa|bb|cc|film|1234|dd|ee|ff|gg|hh
+11)Quentin Tarantino|Pulp Fiction|komedia|film|1994|Quentin Tarantino|Rolf Johnson|Miramax Films|Samuel L. Jackson|Roger Avary
